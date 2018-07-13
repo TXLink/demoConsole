@@ -54,6 +54,7 @@ namespace ConsoleApp
             //watch.Stop();
             //Console.WriteLine($"耗时：{watch.ElapsedMilliseconds}");
 
+
             ////第四种方式
             Stopwatch watch = Stopwatch.StartNew();
             Console.WriteLine("开始执行");
