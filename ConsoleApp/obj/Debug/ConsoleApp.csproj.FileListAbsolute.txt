@@ -1,7 +1,0 @@
-F:\Test\TestAsync\ConsoleApp\bin\Debug\ConsoleApp.exe.config
-F:\Test\TestAsync\ConsoleApp\bin\Debug\ConsoleApp.exe
-F:\Test\TestAsync\ConsoleApp\bin\Debug\ConsoleApp.pdb
-F:\Test\TestAsync\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
-F:\Test\TestAsync\ConsoleApp\obj\Debug\ConsoleApp.exe
-F:\Test\TestAsync\ConsoleApp\obj\Debug\ConsoleApp.pdb
-F:\Test\TestAsync\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
