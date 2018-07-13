@@ -1,0 +1,7 @@
+F:\Test\TestAsync\MulThreadAsync\bin\Debug\MulThreadAsync.exe.config
+F:\Test\TestAsync\MulThreadAsync\bin\Debug\MulThreadAsync.exe
+F:\Test\TestAsync\MulThreadAsync\bin\Debug\MulThreadAsync.pdb
+F:\Test\TestAsync\MulThreadAsync\obj\Debug\MulThreadAsync.csprojResolveAssemblyReference.cache
+F:\Test\TestAsync\MulThreadAsync\obj\Debug\MulThreadAsync.csproj.CoreCompileInputs.cache
+F:\Test\TestAsync\MulThreadAsync\obj\Debug\MulThreadAsync.exe
+F:\Test\TestAsync\MulThreadAsync\obj\Debug\MulThreadAsync.pdb

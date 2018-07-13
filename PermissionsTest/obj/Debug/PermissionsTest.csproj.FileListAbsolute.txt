@@ -1,0 +1,7 @@
+F:\Test\TestAsync\PermissionsTest\bin\Debug\PermissionsTest.exe.config
+F:\Test\TestAsync\PermissionsTest\bin\Debug\PermissionsTest.exe
+F:\Test\TestAsync\PermissionsTest\bin\Debug\PermissionsTest.pdb
+F:\Test\TestAsync\PermissionsTest\obj\Debug\PermissionsTest.csprojResolveAssemblyReference.cache
+F:\Test\TestAsync\PermissionsTest\obj\Debug\PermissionsTest.csproj.CoreCompileInputs.cache
+F:\Test\TestAsync\PermissionsTest\obj\Debug\PermissionsTest.exe
+F:\Test\TestAsync\PermissionsTest\obj\Debug\PermissionsTest.pdb
